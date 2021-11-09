@@ -165,6 +165,7 @@ p {
     color: #ffffff;
 }
 
+
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -207,3 +208,9 @@ p {
     header {
       display: inline-flex;
 }}
+
+@media  and (max-width:768px) {
+    .content {
+        width:100%
+    }
+}
